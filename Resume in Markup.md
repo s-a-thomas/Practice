@@ -1,4 +1,4 @@
-#Sarah Thomas
+# Sarah Thomas
 
 ---
 
@@ -6,14 +6,14 @@ contact@sthomas.io | 352-421-1071 | linkedin.com/in/sarah-t-ittech | sthomas.io
 
 ---
 
-##Summary 
+## Summary 
 
 Motivated IT specialist skilled in user documentation, technical writing, end-user experience, process
 improvement, and project management.
 
 ---
 
-##Experience
+## Experience
 
 **IT Tech Specialist | Hospice of Marion | Ocala, FL | May 2023 - Present**
 
@@ -44,7 +44,7 @@ Successfully troubleshooted minor and major software and hardware issues
 
 ---
 
-##Education
+## Education
 
 **BS in Information Systems | College of Central Florida | 3.7 | Florida | Dec 2021**
 
@@ -54,7 +54,7 @@ Computer Information Data Specialization
 
 ---
 
-##Skills 
+## Skills 
 
 End User Experience Management, Technical Writing, User Documentation, Technical Training, Customer
 Service, Emotional Intelligence, Collaboration, Project Management, Scrum, Agile Method, Active Directory,
@@ -62,13 +62,13 @@ Microsoft Office & Adobe Creative Suite, Notion, Figma, Hardware/Software Troubl
 
 ---
 
-##Portfolio 
+## Portfolio 
 
 sthomas.io/portfolio
 
 ---
 
-##References 
+## References 
 
 Andrea Gallant | Data Specialist | Hospice of Marion | (352) 843-1617
 
